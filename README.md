@@ -12,6 +12,8 @@
 
 - Javascript
 - Jest
+- Sqlite
+- Typeorm
 
 ## Instalação
 
