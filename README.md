@@ -14,6 +14,7 @@
 - Jest
 - Sqlite
 - Typeorm
+- Zod
 
 ## Instalação
 
