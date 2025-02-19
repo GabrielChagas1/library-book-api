@@ -58,7 +58,6 @@ describe('Cadastrar Livro Controller', () => {
     const httpRequest = {
       body: {}
     }
-
     await expect(() => cadastrarLivroController({cadastrarLivroUseCase, httpRequest})).rejects.toBeInstanceOf(ZodError)
   })
 
