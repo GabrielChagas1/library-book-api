@@ -1,6 +1,6 @@
 const { emprestimosRepository, typeormEmprestimosRepository } = require("./emprestimo.repository");
 const { typeormLivrosRepository } = require("./livros.repository");
-const { typeormUsuariosRepository } = require("./usuario.repository");
+const { typeormUsuariosRepository } = require("./usuarios.repository");
 
 describe('Emprestimos Repository Typeorm', () => {
   let sut;
