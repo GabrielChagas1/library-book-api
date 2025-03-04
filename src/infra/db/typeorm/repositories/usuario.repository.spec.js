@@ -1,4 +1,4 @@
-const { usuariosRepository, typeormUsuariosRepository } = require("./usuario.repository");
+const { usuariosRepository, typeormUsuariosRepository } = require("./usuarios.repository");
 
 describe('Usuarios Repository', () => {
 
